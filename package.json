@@ -1,11 +1,11 @@
 {
-  "name": "mostrar-tablas-de-multiplicar-cli",
+  "name": "show-multiplication-tables-cli-tool",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "api": "nodemon ./API/returnMultiplicationTables.js",
-    "game": "node app.js"
+    "tool": "node app.js"
   },
   "author": "FranP-Code",
   "license": "ISC",
