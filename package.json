@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "api": "nodemon ./API/returnMultiplicationTables.js",
+    "start": "node ./API/returnMultiplicationTables.js",
     "tool": "node app.js"
   },
   "author": "FranP-Code",

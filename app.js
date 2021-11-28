@@ -1,4 +1,4 @@
-const url = 'http://localhost:3001'
+const url = 'https://multiplication-table-api.herokuapp.com'
 
 const axios = require('axios')
 const colors = require('colors')
