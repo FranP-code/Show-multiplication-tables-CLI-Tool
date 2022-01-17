@@ -58,7 +58,7 @@ With this tool you can see in your console the multiplication tables of every nu
 
 Additionally, I developed an API for make the processing of the multiplication tables.
 
-Obviously, don't makes sense make an API for that simple task, but I wanted to try develop one with Node.js. The link to the API [is here](https://multiplication-table-api.herokuapp.com)
+Obviously, don't makes sense make an API for that simple task, but I wanted to try develop one with Node.js. The link to the API [is here](https://multiplication-table-api.herokuapp.com).
 
 
 I hope you enjoy it! 🙌
